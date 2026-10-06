@@ -1,0 +1,21 @@
+# 機密與個資：絕對不上傳（本 repo 為公開）
+private/
+data/
+*.env
+.env*
+*.key
+*secret*
+*credential*
+service-account*.json
+firebase-adminsdk*.json
+# 成績、名單類檔案
+*名單*
+*成績*
+*.xlsx
+*.csv
+# 系統與工具暫存
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+generated/
